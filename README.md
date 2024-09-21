@@ -2,9 +2,18 @@ daftar-biodata-siswa
 == 
 Daftar biodata siswa Dicoding Academy
 --
-*Tulisan Miring*
-- list 
+# Heading1
+## Heading2
+### Heading3
 
-== -> heading
--- -> sub-heading
-https://www.markdownguide.org/basic-syntax/
+*Tulisan Miring*
+
+- list
+* list
++ list
+
+== -> heading <br>
+-- -> sub-heading  
+https://www.markdownguide.org/basic-syntax/ &nbsp
+Halo /
+**Tulisan Cetak Tebal**
