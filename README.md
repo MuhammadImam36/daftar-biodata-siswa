@@ -1,4 +1,4 @@
-daftar-biodata-siswa1
+daftar-biodata-siswa2
 == 
 Daftar biodata siswa Dicoding Academy
 --
